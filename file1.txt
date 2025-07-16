@@ -1,1 +1,4 @@
+//git add file1.txt
+//git commit -m "created file1.txt"
+//git push origin main
 created file1.txt
