@@ -1,5 +1,11 @@
+STEPS TO ADD,DELETE,MODIFY A FILE FROM VS TO GITHUB:
+//either add or delete or modify any file and follow below steps in order for it to be reflected in github
 //git add file1.txt
 //git commit -m "created file1.txt"
 //git push origin main
+
+STEP TO ADD CHANGES MADE IN GITHUB TO BE SEEN IN VS CODE:
+//GIT PULL
+the above statement will pull all changes made in github into vscode
 created file1.txt
 changed
